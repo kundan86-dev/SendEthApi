@@ -14,7 +14,7 @@ let web3 = new Web3(provider);
 
 // const providerUrl = 'https://sepolia.infura.io/v3/012c76e4a7e24c2c921459af30311e0a';
 
-const myKey = '289b0254f4e55ca25797a58efbcd55a28618525ef71e13e4000f29e7b7ccfc5f'; // Replace with your private key
+const myKey = ''; // Replace with your private key
 const senderAddress = '0xd9Ea3594F4339CE9216c6B7d4C9FB64f6476a707'; // Replace with your sender address
 
 
